@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- 🌱 I'm currently learning backend development to develop some of the frontend apps I've built into full-stack application.
+- 🌱 I'm currently learning backend development to develop some of the frontend apps I've built into full-stack applications.
 - 🔭 I’m currently working on as many Frontend Mentor challenges as I can
 - ⚡ Fun fact: 
-      -  Used to be an architectural associate and designer for about 6 years
-      -  No coding background prior to this 
-      -  Came across full-stack development in Jan 2023 while learning Python and start to like it. 
-      -  Took a leap of faith to switch career into full-stack development
+     - Used to be an architectural associate and designer for about 6 years
+     - No coding background prior to this 
+     - Came across full-stack development in Jan 2023 while learning Python and start to like it. 
+     - Took a leap of faith to switch career into full-stack development
 
 
 # 💻 Tech Stack:
