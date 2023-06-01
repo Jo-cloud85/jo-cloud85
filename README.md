@@ -1,16 +1,17 @@
 ![Hey there, I'm Jo. I'm a frontend developer. Check out my work](https://github.com/Jo-cloud85/jo-cloud85/blob/main/header_jo.gif)
 
-### <strong>About Me:</strong>
+## <strong>About Me:</strong>
 - 🌱 I'm currently studying to become **a full-stack developer**.
 - 👨‍💻 I'm currently focusing on honing my Javascript skills, along with Node.js and MongoDB to develop some of the frontend apps I've built into full-stack applications.
-- 🔭 I’m currently working on as many Frontend Mentor challenges as I can
+- 🔭 I’m currently working on as many Frontend Mentor challenges as I can.
 - ⚡ Fun fact: 
      - Used to be a design & project architect in the built environment industry
      - Came across full-stack dev. while learning Python, completed a full-stack dev course, and started my full-stack dev journey.
 
 <hr>
 
-### <strong>Tech Stack:</strong>
+
+## <strong>Tech Stack:</strong>
 <details open>
 <summary><b>Frontend</b></summary>
 <br>
@@ -47,8 +48,10 @@
 
 <hr>
 
-### <strong>GitHub Stats:<strong>
+
+## <strong>GitHub Stats:<strong>
 ![](https://github-readme-stats.vercel.app/api?username=Jo-cloud85&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&nbsp;
+     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jo-cloud85&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-cloud85&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
