@@ -7,9 +7,7 @@
 - ⚡ Fun fact: 
      - Used to be a design & project architect in the built environment industry
      - Came across full-stack dev. while learning Python, completed a full-stack dev course, and started my full-stack dev journey.
-
-<hr>
-
+ 
 
 ## <strong>Tech Stack:</strong>
 <details open>
@@ -45,8 +43,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp; 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 </details>
-
-<hr>
 
 
 ## <strong>GitHub Stats:<strong>
