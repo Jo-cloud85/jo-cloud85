@@ -9,7 +9,7 @@
      - Came across full-stack dev. while learning Python, completed a full-stack dev course, and started my full-stack dev journey.
  
 
-## <strong>Tech Stack:</strong>
+## <strong>Toolbox:</strong>
 <details open>
 <summary><b>Frontend</b></summary>
 <br>
