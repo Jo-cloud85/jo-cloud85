@@ -1,4 +1,4 @@
-Hey there, I'm Jo!
+## <strong>Hey there, I'm Jo!</strong>
 
 ## <strong>About Me:</strong>
 - 🌱 I'm currently self-studying to become **a full-stack developer**.
@@ -20,7 +20,7 @@ Hey there, I'm Jo!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <details open>
-<summary><b>Framworks | Platform | Libraries</b></summary>
+<summary><b>Frameworks | Platform | Libraries</b></summary>
 <br>
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)&nbsp; 
