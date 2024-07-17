@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Hey there, I'm Jo!](assets/header.gif)](https://github.com/Jo-cloud85)
-Background GIF by [Kirokaze]([https://www.pinterest.com/pin/5277724550564022/](https://theinspirationgrid.com/animated-pixel-art-creations-by-kirokaze/)
+[![Hey there, I'm Jo!](pixelart2.gif)](https://github.com/Jo-cloud85)
+Background GIF by [Kirokaze](https://theinspirationgrid.com/animated-pixel-art-creations-by-kirokaze/)
 
 </div>
 
