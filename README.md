@@ -10,10 +10,10 @@ Background GIF by [Kirokaze](https://theinspirationgrid.com/animated-pixel-art-c
 ## <strong>About Me:</strong>
 - 🌱 I'm currently working as a full-stack **software developer**.<br>
 - 👨‍💻 I taught myself the MERN tech stack for almost a year 
-- 📝 Then I went to complete a 6-months programme at NUS-ISS by IBF TFIP where I gained new skills for another tech stack - JASM.<br>
+- 📝 Then I went to complete a 6-months programme at NUS-ISS by IBF TFIP where I learnt another tech stack - JASM.<br>
 - ⚡ Fun fact: <br>
      - I started my journey in software development only back in mid 2022. <br>
-     - - I used to be a design & project architect in the architectural industry
+     - I used to be a design & project architect in the architectural industry
 <br>
 
 ## 📊 Toolbox:
